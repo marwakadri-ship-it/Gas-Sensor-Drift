@@ -171,19 +171,6 @@ giving operators advance warning for sensor replacement scheduling.
 
 ---
 
-## How to Run
-
-1. Clone this repository
-2. Download the dataset from [UCI ML Repository](https://archive.ics.uci.edu/dataset/224/gas+sensor+array+drift+dataset)
-   or from [Kaggle](https://www.kaggle.com/datasets/uciml/gas-sensor-array-drift-dataset)
-3. Update `dataset_path` in the notebook to point to the extracted `Dataset/` folder
-4. Run all cells in order (Parts 1 → 2 → 3)
-
-**Requirements:** `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-```
 
 ---
 

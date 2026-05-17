@@ -17,8 +17,7 @@ This project addresses three industrial questions:
 2. **Can we still classify gas types correctly** on aged, drifted sensors?
 3. **When should sensors be replaced** before accuracy drops below the safety threshold?
 
-> Direct relevance to SONATRACH: pipeline leak detection, refinery gas monitoring,
-> and data-driven sensor maintenance scheduling.
+
 
 ---
 
